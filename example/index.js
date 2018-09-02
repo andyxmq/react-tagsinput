@@ -15,7 +15,7 @@ import ValidationCallbackExample from "./components/validationcallback";
 
 import '../react-tagsinput.css'
 
-React.findDOMNode = findDOMNode
+// React.findDOMNode = findDOMNode
 
 class Examples extends React.Component {
   render () {
